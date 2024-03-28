@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="/html/body/div[1]/div[6]/main/div/div/div[2]/turbo-frame/div/div[1]/div/article/p[1]/animated-image/a/img"  />
+  <img height="150" src="[/html/body/div[1]/div[6]/main/div/div/div[2]/turbo-frame/div/div[1]/div/article/p[1]/animated-image/a/img](https://images.app.goo.gl/AxYBRbeuN1SqkwBz6)"  />
 </div>
 
 ###
