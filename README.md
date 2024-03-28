@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[[/html/body/div[1]/div[6]/main/div/div/div[2]/turbo-frame/div/div[1]/div/article/p[1]/animated-image/a/img](https://images.app.goo.gl/AxYBRbeuN1SqkwBz6)](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)"  />
+  <img height="150" src="https://i.pinimg.com/564x/20/73/c5/2073c58091b8e5db0f1b25c6ea3a8c9b.jpg"  />
 </div>
 
 ###
